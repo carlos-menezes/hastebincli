@@ -1,6 +1,8 @@
 # hastebincli
 
-> ## Install
+> A simple utility for sharing content to Hastebin.
+
+## Install
 
 Install with [npm](https://www.npmjs.com/)
 
