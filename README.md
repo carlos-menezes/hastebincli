@@ -10,7 +10,7 @@ $ npm i hastebincli -g
 
 ## Usage
 
-``shell
+```shell
 $ hastebincli -t Hello, I am a sample text!
 $ hastebincli -f index.js
 ```
