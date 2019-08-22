@@ -15,5 +15,9 @@
   },
   "bin": {
     "hastebincli": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlos-menezes/hastebincli.git"
   }
 }
